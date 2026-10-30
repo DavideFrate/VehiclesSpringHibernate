@@ -1,5 +1,5 @@
 package com.betacom.vehicles.services.interfaces;
 
-public interface ICarsServices {
+public interface ICarServices {
 	void create();
 }

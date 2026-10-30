@@ -13,5 +13,5 @@ import lombok.Setter;
 @Table(name = "vehicles")
 @Inheritance(strategy = InheritanceType.JOINED)		// parent table and one table per child with the same id
 public abstract class Vehicle {
-
+	
 }

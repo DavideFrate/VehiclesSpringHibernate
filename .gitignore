@@ -58,6 +58,7 @@ application-local.properties
 application-local.yml
 application-local.yaml
 application-secret.properties
+application.properties
 
 # File di ambiente
 .env

@@ -8,6 +8,8 @@ public class VehiclesSpringHibernateApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VehiclesSpringHibernateApplication.class, args);
+		
+		System.out.println("prova commit");
 	}
 
 }
